@@ -29,8 +29,8 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : DK Files To Link Bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/DKBOTZ'>2.0</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/techiesneh'>Techie Sneh</a></b>\n
-<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/techiesneh'>[ 6-SEP-21 ] 10:00 PM</a></b>"""
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/DKBOTZHELP'>Anonymous</a></b>\n
+<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/DKBOTZHELP'>[ 6-DEC-21 ] 10:00 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
