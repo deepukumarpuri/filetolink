@@ -62,7 +62,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com/deploy?te
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techiesneh/SnehFilesStream/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepukumarpuri/filetolink/tree/main)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
